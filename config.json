@@ -1,20 +1,20 @@
 {
-	"pools":[
-	{
-		"name": "Vipor",
-        	"url": "stratum+tcp://ua.vipor.net:5040",
-		"timeout": 150
-	},
-	{
-		"name": "Vipor",
-        	"url": "stratum+tcp://pl.vipor.net:5040",
-		"timeout": 150
-	},
-	{
-		"name": "Vipor",
-        	"url": "stratum+tcp://ro.vipor.net:5040",
-		"timeout": 150
-	}
+	"pools": [
+		{
+			"name": "Vipor",
+			"url": "stratum+tcp://ua.vipor.net:5040",
+			"timeout": 150
+		},
+		{
+			"name": "Vipor",
+			"url": "stratum+tcp://pl.vipor.net:5040",
+			"timeout": 150
+		},
+		{
+			"name": "Vipor",
+			"url": "stratum+tcp://ro.vipor.net:5040",
+			"timeout": 150
+		}
 	],
 	"user": "RVFCXMNFBNMVZUc14MKWW7UcV4d41BJUUz.redminote9-30",
 	"pass": "x",
